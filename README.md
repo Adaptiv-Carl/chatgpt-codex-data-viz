@@ -17,6 +17,12 @@ The repository is both a plugin and a plugin marketplace. It can be installed lo
 
 The plugin does not include an MCP server and does not require an external account. Connected data sources require a separately installed and authorized connector.
 
+## Live example
+
+[Open the EMARKETER Media Outlook example dashboard](https://adaptiv-carl.github.io/chatgpt-codex-data-viz/)
+
+The example demonstrates multi-page navigation, filters, KPI cards, scenario comparisons, interactive charts, data-health reporting, and palette switching. It contains a prepared demonstration extract rather than a live data connection.
+
 ## Repository structure
 
 ```text
