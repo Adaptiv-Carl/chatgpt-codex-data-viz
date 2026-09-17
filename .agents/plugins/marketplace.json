@@ -1,0 +1,20 @@
+{
+  "name": "adaptiv-data-viz",
+  "interface": {
+    "displayName": "Adaptiv Data Viz"
+  },
+  "plugins": [
+    {
+      "name": "data-viz-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/data-viz-studio"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

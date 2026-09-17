@@ -1,0 +1,8 @@
+interface:
+  display_name: "Data Viz Studio"
+  short_description: "Build interactive dashboards from tabular data"
+  brand_color: "#0496FF"
+  default_prompt: "Use $data-viz-studio to turn my data into an interactive HTML dashboard."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,137 @@
+{
+ "sage": {
+  "label": "Sage",
+  "accent": "#BBDB9B",
+  "accentText": "#58812E",
+  "main": "#9DB4AB",
+  "second": "#878E76",
+  "mainText": "#7A998D",
+  "bad": "#D0364A",
+  "good": "#2E8B55",
+  "swatches": [
+   "#878E76",
+   "#BBDB9B",
+   "#8D9D90",
+   "#ABC4A1",
+   "#9DB4AB"
+  ],
+  "bg": "#FBFCF8",
+  "raised": "#F5F7F0",
+  "surface": "#FFFFFF",
+  "text": "#141610",
+  "grey200": "#EDEFE8",
+  "grey400": "#D8DBD1",
+  "grey500": "#B5B9AC",
+  "grey700": "#797E6D",
+  "selectedTint": "#F3F7E9",
+  "seqMain": [
+   "#878E76",
+   "#BBDB9B",
+   "#8D9D90",
+   "#ABC4A1",
+   "#9DB4AB",
+   "#536055",
+   "#70A53B",
+   "#618453"
+  ],
+  "seqSecond": [
+   "#878E76",
+   "#6F7560",
+   "#595E4E",
+   "#393C31",
+   "#BDC1B4",
+   "#D1D4CB",
+   "#262821"
+  ]
+ },
+ "signal": {
+  "label": "Signal",
+  "accent": "#D81159",
+  "accentText": "#D81159",
+  "main": "#0496FF",
+  "second": "#006BA6",
+  "mainText": "#0496FF",
+  "bad": "#B3261E",
+  "good": "#2E8B55",
+  "swatches": [
+   "#0496FF",
+   "#FFBC42",
+   "#006BA6",
+   "#D81159",
+   "#8F2D56"
+  ],
+  "bg": "#F8FBFC",
+  "raised": "#F0F5F7",
+  "surface": "#FFFFFF",
+  "text": "#101416",
+  "grey200": "#E8EDEF",
+  "grey400": "#D1D8DB",
+  "grey500": "#ACB4B9",
+  "grey700": "#6D787E",
+  "selectedTint": "#E9F2F7",
+  "seqMain": [
+   "#0496FF",
+   "#FFBC42",
+   "#006BA6",
+   "#D81159",
+   "#8F2D56",
+   "#53C2FF",
+   "#C17C00",
+   "#F57FA9"
+  ],
+  "seqSecond": [
+   "#006BA6",
+   "#005888",
+   "#00476E",
+   "#002D46",
+   "#42BCFF",
+   "#7CD1FF",
+   "#001E2E"
+  ]
+ },
+ "lilac": {
+  "label": "Lilac",
+  "accent": "#A997DF",
+  "accentText": "#7F64CF",
+  "main": "#4F517D",
+  "second": "#1A3A3A",
+  "mainText": "#4F517D",
+  "bad": "#D0364A",
+  "good": "#2E8B55",
+  "swatches": [
+   "#4F517D",
+   "#DDC4DD",
+   "#1A3A3A",
+   "#A997DF",
+   "#DCCFEC"
+  ],
+  "bg": "#F9F8FC",
+  "raised": "#F2F0F7",
+  "surface": "#FFFFFF",
+  "text": "#121016",
+  "grey200": "#EAE8EF",
+  "grey400": "#D4D1DB",
+  "grey500": "#AFACB9",
+  "grey700": "#716D7E",
+  "selectedTint": "#E9F7F7",
+  "seqMain": [
+   "#4F517D",
+   "#DDC4DD",
+   "#1A3A3A",
+   "#A997DF",
+   "#DCCFEC",
+   "#6CBDBD",
+   "#9F5B9F",
+   "#5335AC"
+  ],
+  "seqSecond": [
+   "#1A3A3A",
+   "#153030",
+   "#112626",
+   "#0B1818",
+   "#5DB6B6",
+   "#8FCDCD",
+   "#071010"
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "data-viz-studio",
+  "version": "0.1.0",
+  "description": "Create polished, self-contained interactive HTML dashboards from tabular data.",
+  "author": {
+    "name": "Adaptiv"
+  },
+  "homepage": "https://github.com/Adaptiv-Carl/chatgpt-codex-data-viz",
+  "repository": "https://github.com/Adaptiv-Carl/chatgpt-codex-data-viz",
+  "license": "CC0-1.0",
+  "keywords": ["dashboard", "data-visualization", "csv", "excel", "chart"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Data Viz Studio",
+    "shortDescription": "Build interactive dashboards from tabular data",
+    "longDescription": "Turn uploaded or accessible CSV, TSV, Excel, and JSON data into a polished, self-contained interactive HTML dashboard. Includes profiling, report-workbook tidying, configurable charts, data-health checks, and switchable colour palettes.",
+    "developerName": "Adaptiv",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Turn this spreadsheet into an interactive dashboard.",
+      "Profile this CSV and build a dashboard.",
+      "Create a dashboard from this report workbook."
+    ],
+    "brandColor": "#0496FF"
+  }
+}
